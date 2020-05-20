@@ -1,0 +1,12 @@
+$color_main: #444;
+
+div {
+    p {
+        text-align: left;
+        a {
+            display: block;
+            color: $color_main;
+            cursor: pointer;
+        }
+    }
+}
